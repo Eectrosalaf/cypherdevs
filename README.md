@@ -1,2 +1,2 @@
 # cypherdevs
-ui practice app for ideal program
+ui practice app for idea program
